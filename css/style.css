@@ -9,7 +9,10 @@ body {
   background: #F5F5F5;
 }
 
-button, input, a {
+button, 
+input,
+a 
+{
   outline: none;
 }
 
